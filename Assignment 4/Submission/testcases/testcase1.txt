@@ -1,0 +1,21 @@
+input
+-----
+
+12,2,4,5,18
+
+output
+------
+
+Parsed list of Integers
+[12, 2, 4, 5, 18]
+
+LCM : 180
+
+Preorder traversal
+12, 2, 4, 5, 18
+
+Inorder traversal
+2, 4, 5, 12, 18
+
+Postorder traversal
+5, 4, 2, 18, 12
