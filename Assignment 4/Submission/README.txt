@@ -1,5 +1,3 @@
-{-
-
 Instructions for Running the Code
 ---------------------------------
 
@@ -27,5 +25,3 @@ NOTE
 ----
 
 Appropriate error handling has been done. On entering an invalid input, an error message will be displayed to the user.
-
--}
